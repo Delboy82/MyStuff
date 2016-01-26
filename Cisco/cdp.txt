@@ -1,0 +1,5 @@
+
+R1>show cdp neighbor detail | i ^Device|^Interface|^Port
+Device ID: R2.RBNET.local
+Interface: FastEthernet0/1,  Port ID (outgoing port): FastEthernet0/0
+R1>
